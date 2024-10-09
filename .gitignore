@@ -1,0 +1,4 @@
+data/
+logs/
+distilbert-base-uncased-finetuned-sentiment/
+dataset/
