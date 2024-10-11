@@ -1,4 +1,6 @@
 data/
 logs/
-distilbert-base-uncased-finetuned-sentiment/
+distilbert*/
 dataset/
+dataset.csv
+*.pth
