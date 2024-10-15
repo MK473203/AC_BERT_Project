@@ -1,6 +1,8 @@
 data/
 logs/
 distilbert*/
+bert*/
 dataset/
 dataset.csv
 *.pth
+*.pt
